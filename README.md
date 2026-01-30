@@ -381,10 +381,9 @@ Auto-restart on errors with 2-second delay
 ## 📁 Project Structure
 
 ```
-VoiceBridge/
+Real-Time-Voide-Translator-for-Meetings/
 ├── VoiceBridge.py                  # Main application (3000+ lines)
 ├── .env                            # API credentials (create this)
-├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
 ├── .gitignore                      # Git ignore rules
 ├── outgoing_translations/          # Your voice → Meeting (auto-created)
